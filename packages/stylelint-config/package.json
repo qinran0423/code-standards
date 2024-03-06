@@ -1,0 +1,17 @@
+{
+  "name": "mick-stylelint-config",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "qinran0423 <1156107187@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "stylelint": "^14.3.0",
+    "stylelint-scss": "^6.2.1"
+  }
+}
