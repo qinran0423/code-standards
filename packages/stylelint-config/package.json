@@ -13,5 +13,9 @@
     "jest": "^29.7.0",
     "stylelint": "^14.3.0",
     "stylelint-scss": "^6.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:qinran0423/code-standards.git"
   }
 }
