@@ -1,0 +1,22 @@
+{
+  "name": "mick-commitlint-config",
+  "version": "0.0.1",
+  "description": "commit 信息校验",
+  "keywords": [
+    "commitlint"
+  ],
+  "author": "qinran0423 <1156107187@qq.com>",
+  "homepage": "https://github.com/qinran0423/code-standards#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinran0423/code-standards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qinran0423/code-standards/issues"
+  },
+  "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2"
+  }
+}
