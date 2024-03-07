@@ -12,7 +12,7 @@
   "devDependencies": {
     "jest": "^29.7.0",
     "stylelint": "^14.3.0",
-    "stylelint-scss": "^6.2.1"
+    "stylelint-scss": "^4.1.0"
   },
   "repository": {
     "type": "git",
